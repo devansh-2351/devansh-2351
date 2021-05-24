@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Singh</h1>
 <h3 align="center">An Information Technology Undergrad at Birla Institute of Technology , Mesra , Ranchi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-2351&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-2351" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devansh-2351&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-2351" /> </p>
 
 - 🔭 I’m currently working on [COVID Map](https://github.com/devansh-2351/COVID-Map)
 
