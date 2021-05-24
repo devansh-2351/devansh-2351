@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://dev.to/devansh2351" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devansh2351" height="30" width="40" /></a>
 <a href="https://twitter.com/devansh_230501" target="blank"><img align="center" src="https://www.pngarea.com/pngs/147/1445047_square-logo-png-twitter-square-logo-comments-hd.png" alt="devansh_230501" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devansh-singh" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhpwfPdPn-I82WyKdrjxCRz1mLt2gpht2yg&usqp=CAU" alt="devansh-singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Devansh Singh" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhpwfPdPn-I82WyKdrjxCRz1mLt2gpht2yg&usqp=CAU" alt="devansh-singh" height="30" width="40" /></a>
 <a href="https://instagram.com/devansh_2351" target="blank"><img align="center" src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" alt="devansh_2351" height="30" width="40" /></a>
 <a href="https://medium.com/@devansh331692" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtnaTLFcrr1rm_S2XtWEOheHRP6PFkVmWpnf21gqXhCM6D5YBjM3fvPW5PL3J872GeNI8&usqp=CAU" alt="@devansh331692" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/devansh_2351" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devansh_2351" height="30" width="40" /></a>
