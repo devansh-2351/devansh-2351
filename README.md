@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/devansh2351" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devansh2351" height="30" width="40" /></a>
+<a href="https://dev.to/devansh2351" target="blank"><img align="center" src="https://camo.githubusercontent.com/a9a2d68ad493ff831774f24528ff151a3fd455c80122dcaa44af2475300b51b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465762e746f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d6465762e746f266c6f676f436f6c6f723d7768697465" alt="devansh2351" data-canonical-src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" style="max-width:100%;"> /></a>
 <a href="https://twitter.com/devansh_230501" target="blank"><img align="center" data-canonical-src="https://www.pngarea.com/pngs/147/1445047_square-logo-png-twitter-square-logo-comments-hd.png" alt="devansh_230501" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Devansh Singh" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhpwfPdPn-I82WyKdrjxCRz1mLt2gpht2yg&usqp=CAU" alt="devansh-singh" height="30" width="40" /></a>
 <a href="https://instagram.com/devansh_2351" target="blank"><img align="center" src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" alt="devansh_2351" height="30" width="40" /></a>
