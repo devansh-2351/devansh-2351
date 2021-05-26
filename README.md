@@ -9,8 +9,7 @@
 
 - 🤝 I’m looking for help with [Crypto App Notifier](https://github.com/devansh-2351/Crypto-App-Notifier)
 
-- 💬 Ask me about **Data Structures and Algorithms , OOP, Operating System , DBMS , Node JS , Electron**
-Ğ
+- 💬 Ask me about **Data Structures and Algorithms , OOP, Operating System , DBMS , Node JS and  Electron JS**
 - 📫 How to reach me **devansh331692@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
