@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [COVID Map](https://github.com/devansh-2351/COVID-Map)
 
-- 🌱 I’m currently learning **React JS , MongoDB , Express JS **
+- 🌱 I’m currently learning **React JS , MongoDB , Express JS**
 
 - 🤝 I’m looking for help with [Crypto App Notifier](https://github.com/devansh-2351/Crypto-App-Notifier)
 
