@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [COVID Map](https://github.com/devansh-2351/COVID-Map)
 
-- 🌱 I’m currently learning **React JS , MongoDB , Express JS**
+- 🌱 I’m currently learning **Operating System , React JS , Express JS**
 
 - 🤝 I’m looking for help with [Crypto App Notifier](https://github.com/devansh-2351/Crypto-App-Notifier)
 
-- 💬 Ask me about **Data Structures and Algorithms , OOP, Operating System , DBMS , Node JS and  Electron JS**
+- 💬 Ask me about **Data Structures and Algorithms , OOPs , DBMS , Node JS , Electron JS and Basics of MongoDB**
 - 📫 How to reach me **devansh331692@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
